@@ -1,0 +1,10 @@
+{
+    "phpserver.port": 80,
+    "phpserver.router": "/aplicaciones/index.php",
+    "phpserver.relativePath": ".aplicaciones/index.php",
+    "editor.wordWrap": "on",
+    "liveServer.settings.port": 81,
+    "cSpell.words": [
+        "GUINDA"
+    ]
+}
